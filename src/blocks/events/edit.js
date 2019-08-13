@@ -164,7 +164,7 @@ class EventItem extends Component {
 					/>
 					<Placeholder
 						icon="rss"
-						label="RSS"
+						label="Calendar URL"
 					>
 						<form onSubmit={ this.onSubmitURL }>
 							<TextControl
