@@ -77,6 +77,10 @@ const attributes = {
 		type: 'number',
 		default: 0,
 	},
+	lastItem: {
+		type: 'bool',
+		default: false,
+	},
 };
 
 const settings = {

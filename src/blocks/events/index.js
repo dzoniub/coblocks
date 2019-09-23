@@ -17,7 +17,7 @@ const { __ } = wp.i18n;
 /**
  * Block constants.
  */
-const { name } = metadata;
+const { name, attributes } = metadata;
 
 const icon = icons.events;
 
